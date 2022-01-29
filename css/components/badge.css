@@ -1,0 +1,25 @@
+.badge {
+  background-color: tomato;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.exclamation-mark {
+  width: 15px;
+  height: 15px;
+  border: 1px solid red;
+  color: red;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: -25px;
+  bottom: 0px;
+}
